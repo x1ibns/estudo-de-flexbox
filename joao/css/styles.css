@@ -9,7 +9,9 @@
 	
 	justify-content:;/*flex-start | flex-end | center | space-between | scape-around*/
 
-	align-items:;
+	align-items:;/* flex-start | flex-end | center | baseline | stretch*/
+	
+	align-content:;/* space-between | */
 
 }
 
